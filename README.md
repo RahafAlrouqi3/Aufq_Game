@@ -116,9 +116,14 @@ The "Afuq" project aims for long-term sustainability through various approaches 
 ### 5.Financial Sustainability.
        The project is supported by a flexible subscription model, making it accessible for families at an affordable cost, which helps achieve financial stability and ensures ongoing app development aligned with user needs.
        The project also aims to benefit from funding and partnerships to support future app development without compromising educational quality.
+       
 The goal of sustainability in "Afuq" is to create an interactive educational experience that continues to deliver educational value while staying aligned with advancements in digital learning technologies.
-        Free and Paid Versions: Offering a free version of the game with additional features available through in-app purchases can contribute to financial sustainability.
-        Diverse Revenue Streams: In addition to paid subscriptions, embedded advertisements or partnerships with educational organizations can support ongoing development funding.
+
+**Free and Paid Versions:** 
+Offering a free version of the game with additional features available through in-app purchases can contribute to financial sustainability.
+
+**Diverse Revenue Streams:**
+In addition to paid subscriptions, embedded advertisements or partnerships with educational organizations can support ongoing development funding.
 
 # ⚠️ Conclusion and Results
 
@@ -145,33 +150,33 @@ Although the project has made significant progress, ongoing user testing and fee
 The following outlines the future vision for the "Afuq" app:
 
 ### 1.Expanding the Story Library.
-       Develop a broader range of stories suitable for different age groups and reading levels, including more complex narratives for older children.
-       Add culturally diverse stories and characters to build an inclusive library that introduces children to various traditions and values.
+Develop a broader range of stories suitable for different age groups and reading levels, including more complex narratives for older children.
+Add culturally diverse stories and characters to build an inclusive library that introduces children to various traditions and values.
 
 ### 2.Advanced Interactive Features.
-      Introduce more complex decision points and branching paths that allow children to explore multiple story endings.
-      Integrate augmented reality (AR) elements to make stories more immersive, allowing children to interact with the story’s environment in real life.
+Introduce more complex decision points and branching paths that allow children to explore multiple story endings.
+Integrate augmented reality (AR) elements to make stories more immersive, allowing children to interact with the story’s environment in real life.
 
 ### 3.Personalized Learning Paths.
-      Utilize AI to tailor story content based on difficulty level, vocabulary, and educational goals aligned with each child's progress and preferences.
-      Provide personalized feedback to guide children in improving their comprehension and problem-solving skills.
+Utilize AI to tailor story content based on difficulty level, vocabulary, and educational goals aligned with each child's progress and preferences.
+Provide personalized feedback to guide children in improving their comprehension and problem-solving skills.
 
 ### 4.Dashboard for Parents and Teachers. 
-      Develop a dashboard that allows parents and teachers to monitor children’s progress, reading levels, vocabulary growth, and critical thinking skills.
-      Enable parents to customize content based on each child's learning needs and development areas.
+Develop a dashboard that allows parents and teachers to monitor children’s progress, reading levels, vocabulary growth, and critical thinking skills.
+Enable parents to customize content based on each child's learning needs and development areas.
 
 ### 5.Social Interactive Features.
-      Add a safe, monitored social feature where children can share their favorite stories or outcomes and discuss them with friends.
-      Implement cooperative play options where children can solve puzzles or make story decisions together, enhancing teamwork and social learning.
+Add a safe, monitored social feature where children can share their favorite stories or outcomes and discuss them with friends.
+Implement cooperative play options where children can solve puzzles or make story decisions together, enhancing teamwork and social learning.
 
 ### 6.Multi-language Support.
-      Expand language options in the app to support bilingual education, allowing children from diverse linguistic backgrounds to benefit from "Afuq."
-      Create stories that help children learn new languages through context-driven vocabulary within the story.
+Expand language options in the app to support bilingual education, allowing children from diverse linguistic backgrounds to benefit from "Afuq."
+Create stories that help children learn new languages through context-driven vocabulary within the story.
 
 ### 7.Cross-Platform Accessibility.  
-      Develop versions compatible with various devices, including tablets, computers, and VR headsets, to make "Afuq" accessible across different platforms.
-      Enable offline story access, allowing children to continue learning without needing an internet connection.
+Develop versions compatible with various devices, including tablets, computers, and VR headsets, to make "Afuq" accessible across different platforms.
+Enable offline story access, allowing children to continue learning without needing an internet connection.
 
 ### 8.Integration of "Afuq" into School Activities.
-       Introduce "Afuq" as an interactive educational activity suitable for use in schools to enhance reading, critical thinking, and creativity skills.
-       Design educational modules that integrate with school curricula, giving teachers a resource for classroom activities.
+Introduce "Afuq" as an interactive educational activity suitable for use in schools to enhance reading, critical thinking, and creativity skills.
+Design educational modules that integrate with school curricula, giving teachers a resource for classroom activities.
