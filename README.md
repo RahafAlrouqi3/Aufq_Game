@@ -99,23 +99,23 @@ By evaluating the semantic accuracy of story generation, we were able to measure
 The "Afuq" project aims for long-term sustainability through various approaches that support the app’s growth and continuity, providing lasting educational value for users.
 
 ### 1.Continuous Updates and Content Development.
-      To keep children engaged, "Afuq" is regularly updated with new stories, diverse characters, and puzzles that align with evolving interests and educational needs.
-      The team focuses on creating customized content that adapts to advancements in interactive learning, enhancing the app’s quality and educational benefit.
+To keep children engaged, "Afuq" is regularly updated with new stories, diverse characters, and puzzles that align with evolving interests and educational needs.
+The team focuses on creating customized content that adapts to advancements in interactive learning, enhancing the app’s quality and educational benefit.
 
 ### 2.Expanding Educational Partnerships.
-      The project seeks partnerships with schools and educational institutions to offer the app as an innovative educational tool, broadening its impact and ensuring sustainability across diverse learning environments.
-      Collaborations with institutions help tailor the app’s development to modern educational standards and requirements.
+The project seeks partnerships with schools and educational institutions to offer the app as an innovative educational tool, broadening its impact and ensuring sustainability across diverse learning environments.
+Collaborations with institutions help tailor the app’s development to modern educational standards and requirements.
 
 ### 3.User Interaction and Performance Evaluation. 
-      User feedback is gathered periodically to improve content quality and interactive experience, allowing continuous adjustments that meet user needs.
+User feedback is gathered periodically to improve content quality and interactive experience, allowing continuous adjustments that meet user needs.
 
 ### 4.Data-Driven Learning.
-      "Afuq" utilizes data analysis to understand children’s learning behaviors and interactions with stories, enabling content customization that suits each age group’s levels and abilities.
-      Ongoing data analysis informs content strategies, making the app flexible and responsive to the changing educational needs of children.
+"Afuq" utilizes data analysis to understand children’s learning behaviors and interactions with stories, enabling content customization that suits each age group’s levels and abilities.
+Ongoing data analysis informs content strategies, making the app flexible and responsive to the changing educational needs of children.
 
 ### 5.Financial Sustainability.
-       The project is supported by a flexible subscription model, making it accessible for families at an affordable cost, which helps achieve financial stability and ensures ongoing app development aligned with user needs.
-       The project also aims to benefit from funding and partnerships to support future app development without compromising educational quality.
+The project is supported by a flexible subscription model, making it accessible for families at an affordable cost, which helps achieve financial stability and ensures ongoing app development aligned with user needs.
+The project also aims to benefit from funding and partnerships to support future app development without compromising educational quality.
        
 The goal of sustainability in "Afuq" is to create an interactive educational experience that continues to deliver educational value while staying aligned with advancements in digital learning technologies.
 
